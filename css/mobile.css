@@ -1,0 +1,32 @@
+@media screen and (min-width: 480px) {
+    .container {
+        max-width: 428px;
+    }
+
+    .hero-title {
+        width: 320px;
+        font-size: 36px;
+    }
+
+    .footer-subscribe-input {
+        width: 396px;
+    }
+
+    .mobmenu-tel-link {
+        font-size: 36px;
+    }
+
+    .mobmenu-soc-list {
+        display: flex;
+        gap: 56px;
+    }
+
+    .modal {
+        width: 392px;
+        padding: 24px 16px;   
+    }
+
+    .modal-title {
+        font-size: 16px;
+    }
+}
